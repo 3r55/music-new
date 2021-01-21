@@ -62,6 +62,6 @@ let reactionMenus = {};
 	// no reloading for statuses. statuses will be periodically fetched from mysql.
 	require("./modules/status.js")(passthrough)
 
-	client.login(config.bot_token);
+	client.login("Nzk5NjQxNjQ2MDk0MjIxMzUy.YAGiUQ.sRWNXcWD9qClObwcYp3O6752_Xc");
 
 })();
